@@ -7,6 +7,7 @@ const pinRoute = require("./routes/pins");
 
 dotenv.config();
 
+
 app.use(express.json());
 
 mongoose
